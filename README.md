@@ -1,3 +1,8 @@
+<!--Title-->
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Chloe's%20GitHub&animation=&fontColor=000000&fontSize=40" />
+</div>
+
 <h3 align="center">✨ Platforms & Lanquages ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>&nbsp
@@ -36,5 +41,5 @@
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-  <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+  <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
 </div>
