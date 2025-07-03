@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Chloe's%20GitHub&animation=&fontColor=000000&fontSize=40" />
 </div>
 
-<h3 align="center">✨ Platforms & Lanquages ✨</h3>
+<h3 align="center">✨ Platforms & Languages ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
